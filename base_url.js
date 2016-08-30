@@ -1,0 +1,1 @@
+var url = "http://KEWATSAMAJ.COM/wp-content/plugins/wp2android-turn-wp-site-into-android-app/";
